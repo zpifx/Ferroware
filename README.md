@@ -1,2 +1,3 @@
 # Ferroware
-A lightweight Linux distro designed for absolute security and privacy.
+A lightweight Linux distribution designed for absolute security and privacy.
+Later versions will include a Wardn5 Version, a lighter, more secure kernel.
